@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 for item in range(0,100):
-	if item % 3 == 0  && item %5 == 0:
+	if item % 3 == 0 and item %5 == 0:
 		print('FizzBuzz)
 	elif item % 3 == 0:
 		print('Fizz')
